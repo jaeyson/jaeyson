@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/jaeyson/count.svg)
 -->
 
-#### then
-![mind blown](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.webp)
-
-#### now
 ![too focused](https://i.giphy.com/media/IdaC0lMrci4vu/giphy.webp)
