@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Visitor Count](https://profile-counter.glitch.me/jaeyson/count.svg)
--->
 
 ![too focused](https://i.giphy.com/media/IdaC0lMrci4vu/giphy.webp)
 #### me wondering why it wasn't working for _ages_.
+-->
