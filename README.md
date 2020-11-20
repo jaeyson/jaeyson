@@ -1,6 +1,6 @@
+### 👋
 
 <!--
-### Hi there 👋
 **jaeyson/jaeyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ![too focused](https://i.giphy.com/media/IdaC0lMrci4vu/giphy.webp)
 #### me wondering why my build wasn't working. ⊂(◉‿◉)つ
--->
 
 ### Howdy!
 
 **ATM** I'm torturing myself with `FP`, `distributed web apps`, and setting up my dev env thru containers (or using nix)
+
+-->
