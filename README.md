@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![DevTo Profile][DevTo Badge]][DevTo Profile Link]<br>
 [![Telegram Profile][Telegram Badge]][Telegram Profile Link]<br>
 [![Behance Profile][Behance Badge]][Behance Profile Link]<br>
+[![Codepen Profile][Codepen Badge]][Codepen Profile Link]<br>
 
 [//]: # "Links"
 [Exercism Profile Link]: https://exercism.io/profiles/jaeyson
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 [Behance Profile Link]:  https://www.behance.net/jaeyson
 [DevTo Profile Link]:    https://dev.to/jaeyson
 [Telegram Profile Link]: https://t.me/jaeyson
+[Codepen Profile Link]: https://codepen.io/jaeyson
 
 [//]: # "Image Source"
 [Exercism Badge]: https://img.shields.io/badge/Exercism-Profile-yellow?style=for-the-badge&logo=exercism
@@ -46,3 +48,4 @@ Here are some ideas to get you started:
 [Behance Badge]:  https://img.shields.io/badge/Behance-Profile-yellow?style=for-the-badge&logo=behance
 [DevTo Badge]:  https://img.shields.io/badge/DevTo-Profile-yellow?style=for-the-badge&logo=devdotto
 [Telegram Badge]:  https://img.shields.io/badge/Telegram-@nosyeaj-yellow?style=for-the-badge&logo=telegram
+[Codepen Badge]:  https://img.shields.io/badge/Telegram-@nosyeaj-yellow?style=for-the-badge&logo=codepen
