@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 [Behance Badge]:  https://img.shields.io/badge/Behance-Profile-yellow?style=for-the-badge&logo=behance
 [DevTo Badge]:  https://img.shields.io/badge/DevTo-Profile-yellow?style=for-the-badge&logo=devdotto
 [Telegram Badge]:  https://img.shields.io/badge/Telegram-@nosyeaj-yellow?style=for-the-badge&logo=telegram
-[Codepen Badge]:  https://img.shields.io/badge/Telegram-@nosyeaj-yellow?style=for-the-badge&logo=codepen
+[Codepen Badge]:  https://img.shields.io/badge/Codepen-@nosyeaj-yellow?style=for-the-badge&logo=codepen
