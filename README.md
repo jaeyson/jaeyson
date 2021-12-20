@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [//]: # "Links"
 [Exercism Profile Link]: https://exercism.io/profiles/jaeyson
 [Codewars Profile Link]: https://codewars.com/users/jaeyson
-[Repo Projects Link]:    https://demo.jaeyson.dev
+[Repo Projects Link]:    https://jaeyson.dev
 [Behance Profile Link]:  https://www.behance.net/jaeyson
 [DevTo Profile Link]:    https://dev.to/jaeyson
 [Telegram Profile Link]: https://t.me/jaeyson
