@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 **ATM** I'm torturing myself with `FP`, `distributed web apps`, and setting up my dev env thru containers (or using nix)
 
--->
 [//]: # "Badges"
 [![Exercism Profile][Exercism Badge]][Exercism Profile Link]<br>
 [![Codewars Profile][Codewars Badge]][Codewars Profile Link]<br>
-[![Repo Projects][Projects Badge]][Repo Projects Link]<br>
 [![DevTo Profile][DevTo Badge]][DevTo Profile Link]<br>
 [![Telegram Profile][Telegram Badge]][Telegram Profile Link]<br>
 [![Behance Profile][Behance Badge]][Behance Profile Link]<br>
@@ -35,7 +33,6 @@ Here are some ideas to get you started:
 [//]: # "Links"
 [Exercism Profile Link]: https://exercism.io/profiles/jaeyson
 [Codewars Profile Link]: https://codewars.com/users/jaeyson
-[Repo Projects Link]:    https://jaeyson.dev
 [Behance Profile Link]:  https://www.behance.net/jaeyson
 [DevTo Profile Link]:    https://dev.to/jaeyson
 [Telegram Profile Link]: https://t.me/jaeyson
@@ -44,8 +41,12 @@ Here are some ideas to get you started:
 [//]: # "Image Source"
 [Exercism Badge]: https://img.shields.io/badge/Exercism-Profile-yellow?style=for-the-badge&logo=exercism
 [Codewars Badge]: https://img.shields.io/badge/Codewars-Profile-yellow?style=for-the-badge&logo=codewars
-[Projects Badge]: https://img.shields.io/badge/Repo-Projects-yellow?style=for-the-badge&logo=aboutdotme
 [Behance Badge]:  https://img.shields.io/badge/Behance-Profile-yellow?style=for-the-badge&logo=behance
 [DevTo Badge]:  https://img.shields.io/badge/DevTo-Profile-yellow?style=for-the-badge&logo=devdotto
 [Telegram Badge]:  https://img.shields.io/badge/Telegram-@nosyeaj-yellow?style=for-the-badge&logo=telegram
 [Codepen Badge]:  https://img.shields.io/badge/Codepen-Profile-yellow?style=for-the-badge&logo=codepen
+-->
+
+Jaeyson (a slow learner) is currently focused in Elixir/Phoenix/OTP, fundamentals and basically what a dumb student would do :(
+
+[LinkedIn](https://linkedin.com/in/jaeyson), [Exercism](https://exercism.io/profiles/jaeyson)
