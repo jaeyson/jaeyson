@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [Codepen Badge]:  https://img.shields.io/badge/Codepen-Profile-yellow?style=for-the-badge&logo=codepen
 -->
 
-Jaeyson (a slow learner) is currently focused in Elixir/Phoenix/OTP, fundamentals and basically what a dumb student would do :(
+Jaeyson (a slow learner) is currently focused in Elixir/Phoenix/Liveivew, fundamentals and basically what a dumb student would do :(
 
 [LinkedIn](https://linkedin.com/in/jaeyson), [Exercism](https://exercism.io/profiles/jaeyson)
