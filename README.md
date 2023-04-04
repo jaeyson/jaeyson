@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 -->
 
 Jaeyson (a slow learner) is currently focused in Elixir/Phoenix/Liveivew, fundamentals
+
 and basically what a dumb student would do :(
 
 [LinkedIn](https://linkedin.com/in/jaeyson), [Exercism](https://exercism.io/profiles/jaeyson)
