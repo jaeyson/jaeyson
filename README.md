@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 [Codepen Badge]:  https://img.shields.io/badge/Codepen-Profile-yellow?style=for-the-badge&logo=codepen
 -->
 
-Full Stack Engineer [@weareboogie](https://x.com/weareboogie). Building fancies with Elixir ⚗️ and relearning fundamentals. Jacked of all breads.
+Full Stack Engineer [@weareboogie](https://x.com/weareboogie). Building fancies with Elixir ⚗️ and relearning fundamentals.
 
 https://linktr.ee/jaeyson
